@@ -1,4 +1,5 @@
 # Bytecoin
+The original reference implementation of CryptoNote
 
 [![Build Status](https://dev.azure.com/bcndev/bytecoin/_apis/build/status/bytecoin-daemons?branchName=releases/3.5.1)](https://dev.azure.com/bcndev/bytecoin/_build/latest?definitionId=1&branchName=releases/3.5.1)
 
